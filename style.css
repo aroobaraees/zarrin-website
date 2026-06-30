@@ -1,4 +1,6 @@
-
+:root{
+    --hr-color: #7C4EE4;
+}
 
 
 
@@ -85,7 +87,7 @@ padding: 10px 20px !important;
 
 
 .logo-margin{
-    margin-left: 430px !important;
+    margin-left: 450px !important;
     padding: 30px 0px !important;
     
 }
@@ -93,4 +95,13 @@ padding: 10px 20px !important;
 
 .footer{
     border-bottom: 0px;
+}
+
+.icon-margin{
+    margin-left: 410px !important;
+}
+
+
+.hr-color{
+    color:var(--hr-color) !important;
 }
